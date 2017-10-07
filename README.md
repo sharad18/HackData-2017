@@ -2,6 +2,6 @@
 
 ### Team Name : StyroidMLC
 
-Sharad Jain
-Abhishek Kumar
+Sharad Jain, 
+Abhishek Kumar, 
 Pranav Taneja
