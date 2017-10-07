@@ -1,2 +1,7 @@
 # HackData-2017
-Pranav is here.
+
+### Team Name : StyroidMLC
+
+Sharad Jain
+Abhishek Kumar
+Pranav Taneja
